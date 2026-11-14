@@ -1,0 +1,178 @@
+{
+  "format": "Stoneshard Character Lab resource catalog",
+  "version": 1,
+  "generated_from": "character_.zip supplied in conversation",
+  "scanned_files": 8,
+  "valid_save_paths": [
+    "character_4/autosave_1/data.sav",
+    "character_4/exitsave_1/data.sav",
+    "character_1/autosave_1/data.sav",
+    "character_1/exitsave_1/data.sav",
+    "character_1/autosave_2/data.sav",
+    "character_1/save_2/data.sav",
+    "character_1/save_1/data.sav",
+    "character_1/autosave_3/data.sav"
+  ],
+  "errors": [],
+  "values": {
+    "perksList": [
+      "o_perk_magical_erudition",
+      "o_perk_trained_eye"
+    ],
+    "playerClass": [
+      "o_runaway_wizzard",
+      "o_woodward"
+    ],
+    "Head": [
+      "s_DirwinHead",
+      "s_JonnaHead"
+    ],
+    "CorpseSprite": [
+      "s_Dirwin_dead",
+      "s_Jonna_dead"
+    ],
+    "classKey": [
+      "RunawaySorceress",
+      "Woodward"
+    ],
+    "avatar": [
+      "s_Dirwin",
+      "s_Jonna"
+    ],
+    "BodySprite": [
+      "s_human_female",
+      "s_human_male"
+    ],
+    "raceKey": [
+      "Human"
+    ],
+    "sexKey": [
+      "Female",
+      "Male"
+    ],
+    "nameKey": [
+      "Dirwin",
+      "Jonna"
+    ]
+  },
+  "sources": {
+    "perksList\to_perk_magical_erudition": [
+      "character_4/autosave_1 · Jonna",
+      "character_4/exitsave_1 · Jonna"
+    ],
+    "playerClass\to_runaway_wizzard": [
+      "character_4/autosave_1 · Jonna",
+      "character_4/exitsave_1 · Jonna"
+    ],
+    "Head\ts_JonnaHead": [
+      "character_4/autosave_1 · Jonna",
+      "character_4/exitsave_1 · Jonna"
+    ],
+    "CorpseSprite\ts_Jonna_dead": [
+      "character_4/autosave_1 · Jonna",
+      "character_4/exitsave_1 · Jonna"
+    ],
+    "classKey\tRunawaySorceress": [
+      "character_4/autosave_1 · Jonna",
+      "character_4/exitsave_1 · Jonna"
+    ],
+    "avatar\ts_Jonna": [
+      "character_4/autosave_1 · Jonna",
+      "character_4/exitsave_1 · Jonna"
+    ],
+    "BodySprite\ts_human_female": [
+      "character_4/autosave_1 · Jonna",
+      "character_4/exitsave_1 · Jonna"
+    ],
+    "raceKey\tHuman": [
+      "character_1/autosave_1 · Dirwin",
+      "character_1/autosave_2 · Dirwin",
+      "character_1/autosave_3 · Dirwin",
+      "character_1/exitsave_1 · Dirwin",
+      "character_1/save_1 · Dirwin",
+      "character_1/save_2 · Dirwin",
+      "character_4/autosave_1 · Jonna",
+      "character_4/exitsave_1 · Jonna"
+    ],
+    "sexKey\tFemale": [
+      "character_4/autosave_1 · Jonna",
+      "character_4/exitsave_1 · Jonna"
+    ],
+    "nameKey\tJonna": [
+      "character_4/autosave_1 · Jonna",
+      "character_4/exitsave_1 · Jonna"
+    ],
+    "perksList\to_perk_trained_eye": [
+      "character_1/autosave_1 · Dirwin",
+      "character_1/autosave_2 · Dirwin",
+      "character_1/autosave_3 · Dirwin",
+      "character_1/exitsave_1 · Dirwin",
+      "character_1/save_1 · Dirwin",
+      "character_1/save_2 · Dirwin"
+    ],
+    "playerClass\to_woodward": [
+      "character_1/autosave_1 · Dirwin",
+      "character_1/autosave_2 · Dirwin",
+      "character_1/autosave_3 · Dirwin",
+      "character_1/exitsave_1 · Dirwin",
+      "character_1/save_1 · Dirwin",
+      "character_1/save_2 · Dirwin"
+    ],
+    "Head\ts_DirwinHead": [
+      "character_1/autosave_1 · Dirwin",
+      "character_1/autosave_2 · Dirwin",
+      "character_1/autosave_3 · Dirwin",
+      "character_1/exitsave_1 · Dirwin",
+      "character_1/save_1 · Dirwin",
+      "character_1/save_2 · Dirwin"
+    ],
+    "CorpseSprite\ts_Dirwin_dead": [
+      "character_1/autosave_1 · Dirwin",
+      "character_1/autosave_2 · Dirwin",
+      "character_1/autosave_3 · Dirwin",
+      "character_1/exitsave_1 · Dirwin",
+      "character_1/save_1 · Dirwin",
+      "character_1/save_2 · Dirwin"
+    ],
+    "classKey\tWoodward": [
+      "character_1/autosave_1 · Dirwin",
+      "character_1/autosave_2 · Dirwin",
+      "character_1/autosave_3 · Dirwin",
+      "character_1/exitsave_1 · Dirwin",
+      "character_1/save_1 · Dirwin",
+      "character_1/save_2 · Dirwin"
+    ],
+    "avatar\ts_Dirwin": [
+      "character_1/autosave_1 · Dirwin",
+      "character_1/autosave_2 · Dirwin",
+      "character_1/autosave_3 · Dirwin",
+      "character_1/exitsave_1 · Dirwin",
+      "character_1/save_1 · Dirwin",
+      "character_1/save_2 · Dirwin"
+    ],
+    "BodySprite\ts_human_male": [
+      "character_1/autosave_1 · Dirwin",
+      "character_1/autosave_2 · Dirwin",
+      "character_1/autosave_3 · Dirwin",
+      "character_1/exitsave_1 · Dirwin",
+      "character_1/save_1 · Dirwin",
+      "character_1/save_2 · Dirwin"
+    ],
+    "sexKey\tMale": [
+      "character_1/autosave_1 · Dirwin",
+      "character_1/autosave_2 · Dirwin",
+      "character_1/autosave_3 · Dirwin",
+      "character_1/exitsave_1 · Dirwin",
+      "character_1/save_1 · Dirwin",
+      "character_1/save_2 · Dirwin"
+    ],
+    "nameKey\tDirwin": [
+      "character_1/autosave_1 · Dirwin",
+      "character_1/autosave_2 · Dirwin",
+      "character_1/autosave_3 · Dirwin",
+      "character_1/exitsave_1 · Dirwin",
+      "character_1/save_1 · Dirwin",
+      "character_1/save_2 · Dirwin"
+    ]
+  }
+}
